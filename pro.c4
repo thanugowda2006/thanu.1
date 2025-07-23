@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+    printf("In my free time, I love coding and exploring new technology.\n");
+    return 0;
+}
